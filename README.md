@@ -66,6 +66,6 @@ The database is called `retail_store` and contains 4 tables:
 ---
 
 ## 👤 Awal Abdulrahman
-**Awwal**  
-Beginner Data Science & AI student  
-📍 Lagos, Nigeria
+
+Full stack data scientist  
+📍 Ilorin, Nigeria
